@@ -58,6 +58,8 @@ While this is great from a gameplay perspective, how does it affect the storytel
 
 #### Hidden Story
 
+Another element of storytelling in Elden Ring and other FromSoftware games, is in the way in which the story is delivered. Although Elden Ring is probably one of the more accessible in how it tells the story, it still follows the pattern that all FromSoftware games follow, with story hidden rather than told to the player. It chooses to hide a significant amount of the story within the descriptions of some of the hundreds of items that can be picked up throughout the world. It uses NPCs that are easily missable on your journey (or even actively hidden behind fake walls) to tell you about the lore. By choosing to hide the story and lroe of the world like this, it actively 
+
 #### World
 
 ***
