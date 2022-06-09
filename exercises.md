@@ -44,7 +44,11 @@ I ended up choosing Digital: A Love Story because of the pros listed above. It r
 
 ## Week 3
 
+This week has no class due to a holiday, but I thought I would still put an entry here discussion an interesting mode of story telling that has recently boomed with the release of *Elden Ring*. 
 
+### Elden Ring
+
+Elden ring is a newly released game from FromSoftware, the company that has most notably released games such as Dark Souls (1, 2 & 3), Sekiro, and Demon Souls. This is important because they have a very particular style of video games that no other gaming company has been able to fully replicate, and while some of their choices can be passed off as a purely gameplay choices, I believe they all contribute to the way the game chooses to tell the story of the world. These are some of the elements I believe FromSoftware games (including Elden Ring) are unrivaled in their story telling abilities.
 
 ***
 
