@@ -88,4 +88,6 @@ I created this poem with the remaining time after the presentations. I found it 
 
 ## Week 5
 
+This week I made a *very* basic twine story in order to try the software and to practice publishing it to Netlify. It was less of a story and more just a way to trying things out. I enjoyed the method of twine, it was an interesting way to develop a story. Being able to plan a tree of choices that the reader could go through was fun and felt like it had a lot of potential. Even just plotting the narrative through the boxes, seeing them all connect to each other, was exciting to me. This is something I'm definitely going to consider for my final work as I find the process really fun, although I wish I could change the style completely of the finished product, similarly to how *Digitall: A Love Story* made it look like an old PC.
 
+[Test Website Made in Twine](https://cerulean-salmiakki-9ccfa6.netlify.app "Website link")
