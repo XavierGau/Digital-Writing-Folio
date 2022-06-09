@@ -25,20 +25,29 @@ I often search for images as inspiration for what I want to write, whether it be
 Writing on Word means I am limited in the way I can interact with the audience, there is only words on a page. I can aim to make the reader feel a certain way, to push them into a specific mindset, but I can not interact with them the same way a video game or piece of digital writing can. Perhaps it would be more accurate to say that 
 standard fiction doesn't limit how you can interact with the reader, but instead, it limits the ways in which the reader can interact with *you*. 
 
+***
+
 
 ## Week 2
 
 
-|Title|Pros|Cons|Picture|
-|-------|-------|------|
-|Dwarf Fortress|Looks really fun, obviously has a lot of thought into it, enjoyable old-school ASCII look|Extremely hard to understand, no story, is more game than digital story|
-|The Hunt for the Gay Planet|Humorous, gay (same), a lot of content|The story feels extremely locked, your decisions are either right or wrong, feels very padded, purely text|
-|Digital: A Love Story|Really cool visuals, feels like you're actually using an old PC, really nice background music, genuinely engaging story, funny references trickled throughout (such as Star Trek references), gameplay is engaging|No actual choices, the dial up system gets old after a while, a lot of guessing what to do next|
+|Title|Pros|Cons|images|
+|-------|-------|----|-----|
+|Dwarf Fortress|Looks really fun, obviously has a lot of thought into it, enjoyable old-school ASCII look|Extremely hard to understand, no story, is more game than digital story|![alt text](Dwarf.PNG "Dwarf Fortress Image")|
+|The Hunt for the Gay Planet|Humorous, gay (same), a lot of content|The story feels extremely locked, your decisions are either right or wrong, feels very padded, purely text|![alt text](GayPlanet.PNG "The Hunt for the Gay Planet Image")|
+|Digital: A Love Story|Really cool visuals, feels like you're actually using an old PC, really nice background music, genuinely engaging story, funny references trickled throughout (such as Star Trek references), gameplay is engaging|No actual choices, the dial up system gets old after a while, a lot of guessing what to do next|![alt text](Digi.PNG "Digital: A Love Story Image")|
 
-I ended up choosing Digital: A Love Story because of the pros listed above. It really interested me the most out of the ones I looked at and I don't think I'll regret it. The visuals, sounds, and story are all very up my alley, and I look forward to understanding more about it.
+I ended up choosing Digital: A Love Story because of the pros listed above. It really interested me the most out of the ones I looked at and I don't think I'll regret it. The visuals, sounds, and story are all very up my alley, and I look forward to understanding more about it. I've learnt that it is actually very well recieved online, with people still talking about it and listening to the [music](https://youtu.be/MQ4s7hn1mlk) online through YouTube.
+
+***
 
 
-##
+## Week 3
+
+
+
+***
+
 
 ## Week 4
 
