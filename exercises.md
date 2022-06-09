@@ -73,5 +73,13 @@ Storytelling through the world is one of the most impactful and interesting elem
 
 ### We Walk to You Remix
 
-
 [The night has eyes](https://dot-ivy-vision.glitch.me)
+
+I created this poem with the remaining time after the presentations. I found it really fun and an interesting way to interact with poems. The idea of a generating poem is something I find particularly interesting, and makes me wonder how large of a scale this could be done. I know there are A.I. generated books, but I wonder if you could make an infinitely scrawling story like this that actually makes sense without the use of A.I. I guess it depends on the meaning of A.I. though, would this poem be considered A.I.? I don't think so.
+
+***
+
+
+## Week 5
+
+
