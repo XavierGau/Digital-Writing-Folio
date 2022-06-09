@@ -29,13 +29,13 @@ standard fiction doesn't limit how you can interact with the reader, but instead
 ## Week 2
 
 
-|Title|Pros|Cons|
+|Title|Pros|Cons|Picture|
 |-------|-------|------|
 |Dwarf Fortress|Looks really fun, obviously has a lot of thought into it, enjoyable old-school ASCII look|Extremely hard to understand, no story, is more game than digital story|
-|The Hunt for the Gay Planet|Humorous, gay (same), a lot of content|The story feels extremely locked, your decisions are either right or wrong, feels very padded|
-|Digital: A love Story|Really cool visuals, feels like you're actually using an old PC, really nice background music, genuinely engaging story, funny references trickled throughout (such as Star Trek references), gameplay is engaging|No actual choices, the dial up system gets old after a while, a lot of guessing what to do next|
+|The Hunt for the Gay Planet|Humorous, gay (same), a lot of content|The story feels extremely locked, your decisions are either right or wrong, feels very padded, purely text|
+|Digital: A Love Story|Really cool visuals, feels like you're actually using an old PC, really nice background music, genuinely engaging story, funny references trickled throughout (such as Star Trek references), gameplay is engaging|No actual choices, the dial up system gets old after a while, a lot of guessing what to do next|
 
-
+I ended up choosing Digital: A Love Story because of the pros listed above. It really interested me the most out of the ones I looked at and I don't think I'll regret it. The visuals, sounds, and story are all very up my alley, and I look forward to understanding more about it.
 
 
 ##
