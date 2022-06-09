@@ -46,9 +46,19 @@ I ended up choosing Digital: A Love Story because of the pros listed above. It r
 
 This week has no class due to a holiday, but I thought I would still put an entry here discussion an interesting mode of story telling that has recently boomed with the release of *Elden Ring*. 
 
-### Elden Ring
+### Elden Ring & Other FromSoftware Games
 
 Elden ring is a newly released game from FromSoftware, the company that has most notably released games such as Dark Souls (1, 2 & 3), Sekiro, and Demon Souls. This is important because they have a very particular style of video games that no other gaming company has been able to fully replicate, and while some of their choices can be passed off as a purely gameplay choices, I believe they all contribute to the way the game chooses to tell the story of the world. These are some of the elements I believe FromSoftware games (including Elden Ring) are unrivaled in their story telling abilities.
+
+#### Difficulty
+
+FromSoftware games have become infamous as some of the most difficult singleplayer games to be released. They lack a difficulty slider, being locked at the same difficulty for everyone. While this has recieved criticism from some, it is also a large reason for its success. The choice makes every success feel hard earnt, it removes the ability to make things easier for yourself, and it keep your tension up when playing. Many people who have finished the games admit they would have made the game easier for themselves if they were given the option, but are also glad they were not given the option. 
+
+While this is great from a gameplay perspective, how does it affect the storytelling? Massively. The story of all of FromSoftware games are similar to a degree, in that you are a nobody, whether it be an undead (Dark Souls 1), a hollow (Dark Souls 2), or a tarnished (Elden Ring). You have the world against you, and FromSoftware wants you to know that not just through the story but also through the difficulty. Having to struggle through every stage of the game, growing slowly in strength, until you are fighting literal gods, is a core element of storytelling in FromSoftware games.
+
+#### Hidden Story
+
+#### World
 
 ***
 
