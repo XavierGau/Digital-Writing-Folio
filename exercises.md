@@ -131,3 +131,5 @@ This is my plan for the story so far, although its just a layout it gives me an 
 
 
 ## Week 8
+
+Just been working on my final work mostly. I got some important feedback from the presentation last week, such as 
