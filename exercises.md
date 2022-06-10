@@ -145,15 +145,3 @@ One element I would have liked to been able to add to Twine, which as far as I k
 
 This thought came to me from thinking about some of my favourite video games and digital stories, the main one for this particular idea was *Telltale's The Walking Dead*. In it, the player is forced to create difficult choices with the pressure of a timer that reflects the urgency of the situation. If a choice has to be made while in the middle of fighting someone, the timer might move very quickly, for instance. Telltale is not the first, or last, to use this mechanic, but I find it an interesting idea for what I would have liked to add to my work regardless. 
 
-***
-
-## Week 10
-
-
-
-
-
-
-
-
-
