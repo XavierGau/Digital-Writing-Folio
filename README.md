@@ -1,4 +1,4 @@
 # Digital Writing Folio
 
- - [Exercises - Week to week folio of work and relfections](exercises.md)
+ - [Exercises - Week to week folio](exercises.md)
  - [Reflection](reflection.md)
