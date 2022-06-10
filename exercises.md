@@ -44,7 +44,7 @@ I ended up choosing Digital: A Love Story because of the pros listed above. It r
 
 ## Week 3
 
-This week has no class due to a holiday, but I thought I would still put an entry here discussion an interesting mode of story telling that has recently boomed with the release of *Elden Ring*. 
+This week has no class due to a holiday, but I thought I would still put an entry here discussing an interesting mode of story telling that has recently boomed with the release of *Elden Ring*. 
 
 ### Elden Ring & Other FromSoftware Games
 
