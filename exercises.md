@@ -91,3 +91,25 @@ I created this poem with the remaining time after the presentations. I found it 
 This week I made a *very* basic twine story in order to try the software and to practice publishing it to Netlify. It was less of a story and more just a way to trying things out. I enjoyed the method of twine, it was an interesting way to develop a story. Being able to plan a tree of choices that the reader could go through was fun and felt like it had a lot of potential. Even just plotting the narrative through the boxes, seeing them all connect to each other, was exciting to me. This is something I'm definitely going to consider for my final work as I find the process really fun, although I wish I could change the style completely of the finished product, similarly to how *Digitall: A Love Story* made it look like an old PC.
 
 [Test Website Made in Twine](https://cerulean-salmiakki-9ccfa6.netlify.app "Website link")
+
+***
+
+
+## Week 6
+
+We went through more ideas for media in which we want to present our final works in class, including Inform 7 and Bitsy. I really liked these programs as they gave a more 'game-like' way of interacting with the environment to the reader. However, both had massive problems that make them almost unusable for what I want to do.
+
+#### Bitsy
+
+Bitsy was extremely promising, the idea of being able to create a visual game and environment from which the audience can interact with was appealing. Being able to create my own visual assets from which I could build the story also appealed to my artistic side. The idea I was thinking of for a story using this medium was to have a side-view of a mountain that the player needs to climb, the mountain slowly gets more and more hostile (visually) and the story of why they are climbing the mountain becomes apparent as they climb. There would be nothing telling them to climb, they would be perfectly able to stop climbing or to go down, but they would be driven by their own ambition to climb the mountain. 
+I soon ran into a few issues that made this idea impossible and ruined my ideas to use this software at all. 
+
+ * The lack of colour choice. Unfortunately, the program only allows 3 colours for each level, severely limiting the creative options I have for creating an intersting environment that could tell the story. It also restricted the amount of 'blocks' that you could use, only having a background, a wall, or an item/person. This was extremely disappointing right off the bat.
+ * Not being able to add basic physics and gravity. This was mostly only an issue due to the story I wanted to create with the perspective I was using. This program was clearly designed with a top-down view in mind, so my side-view choice wasn't really viable as the player could just fly into the sky with the lack of gravity.
+ * Very basic storytelling capabilities. While it did allow for IF commands and a basic inventory system, it still was lacking many of the storytelling capabilities I would have like to have, such as NPCs moving, audio, and movement animations.
+
+#### Inform 7 
+
+Inform was a much more viable option, although the effect wouldn't quite be the same as with a visual presentation from Bitsy. This was not not a bad choice at all, however, I felt like this medium would require a lot of work to make the story effortlessly flow. It felt more like it was meant to make a choose-your-own-adventure then a *story*, not that I have anything against choose-your-own-adventure books. This felt like something I would want to experiment with but maybe not for my final project as I want it to be more story-driven.
+
+
