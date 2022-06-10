@@ -31,7 +31,7 @@ standard fiction doesn't limit how you can interact with the reader, but instead
 ## Week 2
 
 
-|Title|Pros|Cons|images|
+|Title|Pros|Cons|Images|
 |-------|-------|----|-----|
 |Dwarf Fortress|Looks really fun, obviously has a lot of thought into it, enjoyable old-school ASCII look|Extremely hard to understand, no story, is more game than digital story|![alt text](Dwarf.PNG "Dwarf Fortress Image")|
 |The Hunt for the Gay Planet|Humorous, gay (same), a lot of content|The story feels extremely locked, your decisions are either right or wrong, feels very padded, purely text|![alt text](GayPlanet.PNG "The Hunt for the Gay Planet Image")|
@@ -62,7 +62,7 @@ Another element of storytelling in Elden Ring and other FromSoftware games, is i
 
 ![moon](1245620_20220508070959_1.png "The moon")
 
-There is lore even added to the detailing of the moon that is not pointed out or referenced in the game, but just left for the player to figure out and draw their own conclusions to.
+There is lore added to the detailing of the moon that is not pointed out or referenced in the game, but just left for the player to figure out and draw their own conclusions to.
 
 #### World 
 
@@ -132,4 +132,15 @@ This is my plan for the story so far, although its just a layout it gives me an 
 
 ## Week 8
 
-Just been working on my final work mostly. I got some important feedback from the presentation last week, such as 
+Ive just been working on my final work mostly. I got some important feedback from the presentation last week, such as ideas on how to reduce the word count without reducing the ability of the passages to draw the reader in. One of the ideas was to copy and paste *some* of the words between passages where its relevant, so that each passage is still unique but I won't need to redescribe similar situations between differnt parts of the same event, i.e. passages adjacent to each other that can not both be read in the same reading. 
+
+I thought about the use of images and music/sounds in my Twine story. It would be easy to set up using Twine's interface, however, I came to the conclusion that it would remove from the imagination of the reader and/or come off as tacky. I've come across too many digital stories that I felt were tacky with their overuse of stock images and poorly intergrated sounds that felt out of place. So I think I'm going to stear clear of those elements, althought they might add something to the piece, I feel like it doesn't align with my visions of the project.
+
+***
+
+
+## Week 9 
+
+
+
+
