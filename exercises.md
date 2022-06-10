@@ -123,4 +123,11 @@ Inform was a much more viable option, although the effect wouldn't quite be the 
 
 I've just been working on my proposal for this week, trying to plan out my final work. I've decided to use Twine for the final work as it gives me the most bang for my buck with the time I have, it allows me a strong storytelling medium while not requiring me to spend too much time learning the program. This way I can focus on the actual storytelling and developing my skills in the Digital Writing medium that I can then later transfer to more complicated and time-consuming programs.
 
+![My Twine Plan](image2.PNG "my twine plan so far")
 
+This is my plan for the story so far, although its just a layout it gives me an idea for what I want to do with the story and a strong outline. The main problem I can see so far is that it might be hard to keep it at this length and have each of the modules still feel engaging and not shallow. The word count could easily become very high,very quickly.
+
+***
+
+
+## Week 8
