@@ -107,9 +107,20 @@ I soon ran into a few issues that made this idea impossible and ruined my ideas 
  * The lack of colour choice. Unfortunately, the program only allows 3 colours for each level, severely limiting the creative options I have for creating an intersting environment that could tell the story. It also restricted the amount of 'blocks' that you could use, only having a background, a wall, or an item/person. This was extremely disappointing right off the bat.
  * Not being able to add basic physics and gravity. This was mostly only an issue due to the story I wanted to create with the perspective I was using. This program was clearly designed with a top-down view in mind, so my side-view choice wasn't really viable as the player could just fly into the sky with the lack of gravity.
  * Very basic storytelling capabilities. While it did allow for IF commands and a basic inventory system, it still was lacking many of the storytelling capabilities I would have like to have, such as NPCs moving, audio, and movement animations.
+ 
+ ![bitsy](image.png "Best I could do with Bitsy")
 
 #### Inform 7 
 
 Inform was a much more viable option, although the effect wouldn't quite be the same as with a visual presentation from Bitsy. This was not not a bad choice at all, however, I felt like this medium would require a lot of work to make the story effortlessly flow. It felt more like it was meant to make a choose-your-own-adventure then a *story*, not that I have anything against choose-your-own-adventure books. This felt like something I would want to experiment with but maybe not for my final project as I want it to be more story-driven.
+
+[My Inform 7 Experimenting](https://quiet-sawine-50c1a2.netlify.app)
+
+***
+
+
+## Week 7
+
+I've just been working on my proposal for this week, trying to plan out my final work. I've decided to use Twine for the final work as it gives me the most bang for my buck with the time I have, it allows me a strong storytelling medium while not requiring me to spend too much time learning the program. This way I can focus on the actual storytelling and developing my skills in the Digital Writing medium that I can then later transfer to more complicated and time-consuming programs.
 
 
